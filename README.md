@@ -19,7 +19,7 @@ This repository contains a **public specification and reference artifacts**, not
 ## What This Is
 
 - A named **authorization decision methodology**
-- A feild reusable **reference architecture**
+- A field reusable **reference architecture**
 - A minimal **policy and evidence model** for regulated data access
 - A clean-room artifact suitable for independent adoption
 
