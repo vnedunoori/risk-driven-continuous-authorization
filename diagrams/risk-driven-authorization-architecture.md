@@ -1,5 +1,3 @@
-** Diagram TODO 
-
 # Conceptual Architecture: Risk-Driven Continuous Authorization
 
 This conceptual architecture illustrates the flow of an action-level authorization decision.
@@ -11,3 +9,6 @@ This conceptual architecture illustrates the flow of an action-level authorizati
 5. Audit-verifiable evidence is generated without logging regulated data.
 
 This architecture is illustrative and does not prescribe deployment topology or technology choices.
+
+
+<img width="1259" height="470" alt="A-Lite" src="https://github.com/user-attachments/assets/30e7b353-b6b9-43bf-8d59-085ebb92c7b9" />
